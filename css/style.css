@@ -1142,7 +1142,7 @@ textarea.form-control{height:144px !important;}
 .title{margin:0 !important;}
 .testimonials-wrap .title{margin-bottom:90px !important;}
 .navbar-default{background:none;}
-.header-wrap{background: rgba(0, 0, 0, 0.66);}
+.header-wrap{background: #cee5d0d6;}
 
 .navbar-default .navbar-nav>li>a+i {display: block;}
 .navbar-nav li:hover .dropdown-menu {display: none;}
