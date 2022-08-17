@@ -60,11 +60,11 @@ ul, ol{list-style:none;}
 .header-wrap{position:absolute; top:40px; left:0; z-index:1000; width:100%;}
 .navigationwrape{}
 .navbar{margin-bottom:0;}
-.navbar-default{background:rgba(0, 0, 0, 0.66); border-radius:0; border:none; padding:12px 0 0px 10px;}
+.navbar-default{background:#cee5d0d6 ; border-radius:0; border:none; padding:12px 0 0px 10px;}
 .navbar-nav{float:right;}
 .navbar-nav>li{padding:17px 20px 29px 20px;}
 .navbar-nav>li:last-child{padding-right:0;}
-.navbar-default .navbar-nav>li>a{font-size:14px; color:#fff; font-weight:600; padding:0;}
+.navbar-default .navbar-nav>li>a{font-size:14px; color:rgb(16, 0, 0); font-weight:600; padding:0;}
 .navbar-default .navbar-nav>li:hover>a, .navbar-default .navbar-nav>li>a:hover{color:#a58838;}
 .navbar-collapse{padding-left:0;}
 
